@@ -102,7 +102,7 @@ Name: Aniket Chopade
 
 - 💬 I can debug your JavaScript before coffee 😎  
 - 🔍 Currently exploring LangChain + vector DBs  
-- 🧩 Obsessed with problem-solving & hackathons  
+- 🧩 Obsessed with problem-solving & DSA problems  
 - 🎨 UI/UX nerd who loves minimal dark themes  
 
 ---

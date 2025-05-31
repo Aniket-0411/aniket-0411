@@ -47,7 +47,7 @@ Name: Aniket Chopade
 
 ---
 
-### 📈 GitHub Stats (Dark Mode)
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniket0411&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>

@@ -50,9 +50,10 @@ Name: Aniket Chopade
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket0411&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket0411&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket0411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket0411&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 

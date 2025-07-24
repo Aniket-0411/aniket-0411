@@ -51,9 +51,13 @@ Name: Aniket Chopade
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniket0411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket0411&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket0411&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 

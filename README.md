@@ -50,7 +50,7 @@ Name: Aniket Chopade
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket0411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-0411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Name: Aniket Chopade
 - Built a smart planner that generates itineraries with ChatGPT API  
 - Used React, Node, Express, MongoDB  
 - Email system for sharing plans  
-- [🌐 Live Demo](https://aniket-chopade.vercel.app) | [📁 Code](https://github.com/aniket-0411/AI-Travel-Guide)
+- [🌐 Live Demo](https://ai-travel-guide-1d7ytb8k6-anikets-projects-45d9251c.vercel.app/) | [📁 Code](https://github.com/aniket-0411/AI-Travel-Guide)
 
 </details>
 

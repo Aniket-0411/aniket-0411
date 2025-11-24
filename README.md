@@ -63,7 +63,7 @@ Name: Aniket Chopade
 - Built a smart planner that generates itineraries with ChatGPT API  
 - Used React, Node, Express, MongoDB  
 - Email system for sharing plans  
-- [🌐 Live Demo](https://aniket-chopade.vercel.app) | [📁 Code](https://github.com/aniket0411/AI-Travel-Guide)
+- [🌐 Live Demo](https://aniket-chopade.vercel.app) | [📁 Code](https://github.com/aniket-0411/AI-Travel-Guide)
 
 </details>
 
@@ -73,7 +73,7 @@ Name: Aniket Chopade
 - Classified 50K+ tweets into categories using NLP + ML  
 - Achieved 87% accuracy with RoBERTa  
 - Explored multilingual and real-time tweet detection  
-- [📁 Code](https://github.com/aniket0411/Cyberbullying-Detection)
+- [📁 Code](https://github.com/aniket-0411/Cyberbullying-Detection)
 
 </details>
 
@@ -83,7 +83,7 @@ Name: Aniket Chopade
 - Raspberry Pi + CV + Object Detection  
 - Real-time target tracking + remote control system  
 - Used OpenCV, Python, YOLOv4-tiny  
-- [📁 Code](https://github.com/aniket0411/Semi-Autonomous-Targeting)
+- [📁 Code](https://github.com/aniket-0411/Semi-Autonomous-Targeting)
 
 </details>
 
